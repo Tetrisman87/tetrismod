@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tetrisman87",
+  "name": "Tetrismans Mod",
+  "description": "My First Mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tetrisman87"],
+  "credits": "ME(Tetrisman87)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
